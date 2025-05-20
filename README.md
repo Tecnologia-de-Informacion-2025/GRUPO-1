@@ -1,2 +1,2 @@
-# Grupo-1
+# GRUPO-1
 Integrantes: Baigorria Juan, Ponce Tomás y Rodriguez Daniel
